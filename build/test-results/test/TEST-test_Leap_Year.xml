@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test_Leap_Year" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-17T16:08:12" hostname="DESKTOP-HLIONE0" time="0.015">
+<testsuite name="test_Leap_Year" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-27T17:33:19" hostname="DESKTOP-HLIONE0" time="0.014">
   <properties/>
-  <testcase name="is divisible by 400" classname="test_Leap_Year" time="0.012"/>
+  <testcase name="is divisible by 400" classname="test_Leap_Year" time="0.011"/>
   <testcase name="divisible by 100 and not 400" classname="test_Leap_Year" time="0.0"/>
   <testcase name="is divisible By 4 But Not 100" classname="test_Leap_Year" time="0.0"/>
   <testcase name="not divisible by 4" classname="test_Leap_Year" time="0.001"/>
